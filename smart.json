@@ -1,0 +1,9 @@
+{
+  "name": "hisrc",
+  "description": "Responsive images on clientside.",
+  "homepage": "https://github.com/donflopez/meteor-hisrc",
+  "author": "Francisco López<donflopez@gmail.com> (http://about.me/donflopez)",
+  "version": "1.0.0",
+  "git": "https://github.com/donflopez/meteor-hisrc.git",
+  "packages": {}
+}
